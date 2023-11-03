@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">toast profile</string>
+    <string name="profile_image_description">foto_cella</string>
+    <string name="toast_profile_text">toast profile</string>
+    <string name="textview2">Marcella Fritiankila Novitalfa \n NIM C2157201008</string>
+    <string name="textview3">Detail Informasi Mahasiswa \n
+    Prodi: Sistem Informasi \n
+    Tahun masuk: 2021</string>
+    <string name="textview4">Detail Kontak \n 089620676915</string>
+</resources>
